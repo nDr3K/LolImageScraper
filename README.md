@@ -1,6 +1,6 @@
-# Lolesports Player Image Scraper
+# Lolesports Image Scraper
 
-LolPlayerImageScraper is a Node.js-based script designed to scrape images from [lolesports.com](https://lolesports.com). It navigates through specified ranking links, downloads images, and converts them to the WebP format.
+LolImageScraper is a Node.js-based script designed to scrape images from [lolesports.com](https://lolesports.com). It navigates through specified ranking links, downloads images, and converts them to the WebP format.
 
 ## Prerequisites
 
